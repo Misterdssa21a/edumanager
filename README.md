@@ -9,6 +9,35 @@ O EduManager é uma aplicação que centraliza o gerenciamento de alunos, discip
 
 O projeto foi desenvolvido como uma aplicação web utilizando tecnologias modernas de desenvolvimento front-end e integração com banco de dados.
 
+
+## Demonstração do sistema
+
+Confira algumas telas do EduManager:
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Gestão de alunos
+![Alunos](screenshots/alunos.png)
+
+### Gestão de disciplinas
+![Disciplinas](screenshots/disciplinas.png)
+
+### Gestão de atividades
+![Atividades](screenshots/atividades.png)
+
+### Desempenho acadêmico
+![Desempenho](screenshots/desempenho.png)
+
+### Sobre o sistema
+![Sobre](screenshots/sobre.png)
+
+### Funcionalidades
+![Funcionalidades](screenshots/sobre-funcionalidades.png)
+
+### Tecnologias utilizadas
+![Tecnologias](screenshots/sobre-tecnologias.png)
+
 ## Funcionalidades
 
 - Dashboard com indicadores acadêmicos.
